@@ -1,10 +1,10 @@
 [
   {
-    "package": "biwavelet",
+    "package": "synchrony",
     "oncran": true
   },
   {
-    "package": "synchrony",
+    "package": "biwavelet",
     "oncran": true
   }
 ]

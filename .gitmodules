@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "biwavelet"]
-	path = biwavelet
-	url = https://github.com/tgouhier/biwavelet
-	shallow = true
-	registered = true
 [submodule "synchrony"]
 	path = synchrony
 	url = https://github.com/tgouhier/synchrony
+	shallow = true
+	registered = true
+[submodule "biwavelet"]
+	path = biwavelet
+	url = https://github.com/tgouhier/biwavelet
 	shallow = true
 	registered = true
